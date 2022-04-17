@@ -1,0 +1,90 @@
+{
+  "name": "Venom Bridge connected assets",
+  "multitoken": {},
+  "token": {
+    "0:784d3d56845a313204ba960e5b20dfaf6a1bd3019837f65c9f17229acdd66a7a": {
+      "evm_everscale": {
+        "proxy": "0:7618de20b8a7a2ba7cbc9251b84192848a38e5133fd35eb54b86b8fd00d6a94c",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0xf9386cf3cf22257ea5a8c1c6618feda7389a8d50",
+            "ethereumConfiguration": "0:bad9fcaf353f4240c16967200e4a43b26b7d42730698174099168933dcff9f53",
+            "depositType": "default",
+            "token": "0x55d398326f99059ff775485246999027b3197955"
+          }
+        ]
+      }
+    },
+    "0:56484380c23deeb88a08d41c69cd77caecb047a4b228503da78949c660a990ba": {
+      "evm_everscale": {
+        "proxy": "0:312200ed9f83cd2cc9a6dc1f02743e377e0bf7d14324a76d066f320bbcd09fb3",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0xc491a10b383a691d3fefcaacaaa2c623bed0474f",
+            "ethereumConfiguration": "0:cf53c4519b74646c6f33e3736f0ead523d6867252c85e7447036c98beb8db69d",
+            "depositType": "default",
+            "token": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+          }
+        ]
+      }
+    },
+    "0:4409770f242f4d3d4c96aa464ee9a96032f936e656fc89fc68ec958776764acc": {
+      "evm_everscale": {
+        "proxy": "0:3ac9d56097113c72983000bca4740e276fe858a430b7d98a58b1ebf16bc16855",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0x1dd28ce5eec6fae872863b632915f1be1f8be93c",
+            "ethereumConfiguration": "0:107942d51322384209f5feb6236955863e881fb11691bf9cea4671af464a5ffe",
+            "depositType": "default",
+            "token": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
+          }
+        ]
+      }
+    },
+    "0:2bb8e5fe4f20b31b077a6bda574f1b9ed4eddc8ef207b00299ffc570ac33a2bd": {
+      "evm_everscale": {
+        "proxy": "0:9b7a8b871f5dd826fe60afb24a7845b3a4db57717b62e7ca6029e2c4cb284ea7",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0x1a4e59243a81736e6a7e9ee643df4600e904333d",
+            "ethereumConfiguration": "0:30995c9e1f0ec7718152a2812c04a84dc265c833339d97230d4230bcb35b3233",
+            "depositType": "default",
+            "token": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+          }
+        ]
+      }
+    },
+    "0:3a48450d69dc40e46ccd8a2a291238364a741a02292e0644b5b427bd895b984c": {
+      "evm_everscale": {
+        "proxy": "0:33c27e9e1146e79913372ca2c1c66608002fb9f26fb0f208e08d217a095b611b",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0xeeb79ec3c498d7bbc8c99f9eab77533f189a2e5f",
+            "ethereumConfiguration": "0:128526eaed7699d233c08b7a6299271d9cef6a28641446132c8ec15179503359",
+            "depositType": "default",
+            "token": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+          }
+        ]
+      }
+    },
+    "0:b825bb03a5a3b854f9d8ca0669ed1739ef093cb9cf8684b70d957ce184f4d365": {
+      "evm_everscale": {
+        "proxy": "0:ef893c16c9e2050bf59d04db97ea4c2572a328cdd76419022fd4889bc645e7c8",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0xd8eb4944165276877d8318c18d83a787b4dfb636",
+            "ethereumConfiguration": "0:fd899ef7bf8fbbbc7d6ee0c6feee5a184ded2dbc9799fc73f30cb1e40741a6e7",
+            "depositType": "default",
+            "token": "0x4374f26f0148a6331905edf4cd33b89d8eed78d1"
+          }
+        ]
+      }
+    }
+  }
+}
