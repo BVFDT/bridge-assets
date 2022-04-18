@@ -173,6 +173,20 @@
             "ethereumConfiguration": "0:cfd4971b4aa50e87a1f459fcd8dddf2235f866533101feb3ea212508604fc31d",
             "depositType": "default",
             "token": "0xd887c25c3c8d9347b42eae022e002a3bbe52ab76"
+          },
+          {
+            "chainId": "1",
+            "vault": "0xef0a186048d341ab3d62567e52d4fd59fd4deb5f",
+            "ethereumConfiguration": "0:05df2138f3615ace5f588d20d2051c7a0fb2ee50942fbced03776b0559f4918a",
+            "depositType": "default",
+            "token": "0xd887c25c3c8d9347b42eae022e002a3bbe52ab76"
+          },
+          {
+            "chainId": "250",
+            "vault": "0xef0a186048d341ab3d62567e52d4fd59fd4deb5f",
+            "ethereumConfiguration": "0:5bb76f93a7c37bc816ebf646cd0a1a4f6380931474436dd23622b2f35c77941f",
+            "depositType": "default",
+            "token": "0xd887c25c3c8d9347b42eae022e002a3bbe52ab76"
           }
         ]
       }
