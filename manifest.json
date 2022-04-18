@@ -162,6 +162,20 @@
           }
         ]
       }
+    },
+    "0:28237a5d5abb32413a79b5f98573074d3b39b72121305d9c9c97912fc06d843c": {
+      "everscale_evm": {
+        "proxy": "0:6089d88105a5b0e37145b1f711e6a374218a059cc5d84c04e4612c17d5ba12b9",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0xef0a186048d341ab3d62567e52d4fd59fd4deb5f",
+            "ethereumConfiguration": "0:cfd4971b4aa50e87a1f459fcd8dddf2235f866533101feb3ea212508604fc31d",
+            "depositType": "default",
+            "token": "0xd887c25c3c8d9347b42eae022e002a3bbe52ab76"
+          }
+        ]
+      }
     }
   }
 }
