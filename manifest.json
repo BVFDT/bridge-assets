@@ -19,6 +19,13 @@
             "ethereumConfiguration": "0:4aaca6d7393fca4e440b5d7c454101829580871c6e18a7a9e3b1bbb762395801",
             "depositType": "default",
             "token": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+          },
+          {
+            "chainId": "56",
+            "vault": "0xf9386cf3cf22257ea5a8c1c6618feda7389a8d50",
+            "ethereumConfiguration": "0:33584069bc4f2f9e423c993b8f1d4774b042fd2319f742362b6bd6e3f497ac96",
+            "depositType": "credit",
+            "token": "0x55d398326f99059ff775485246999027b3197955"
           }
         ]
       }
