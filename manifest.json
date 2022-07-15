@@ -309,6 +309,181 @@
           }
         ]
       }
+    },
+    "0:3926bfa6e533a13ed906f97dd815812c98e6581330284ef3f867931dae904787": {
+      "evm_everscale": {
+        "proxy": "0:cfcb8c573fc7dc624a59d4c9c95073ac76e30b5bbe4e9486018e63945224aded",
+        "vaults": [
+          {
+            "chainId": "1",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:2d3295694776ecfac25700e4e0b9e1a705dd15def1d85e912d2b88908d38bdd0",
+            "depositType": "default",
+            "token": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:e1162d9c0d5642fdf1ef692420841231ba4b412e5b6e38a4f45cc9f2da56b68b",
+            "depositType": "default",
+            "token": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+          },
+          {
+            "chainId": "1",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:ebcbf75cf3faf4973f88b40324ffa7362a073633d420c51100d90e2b311d2520",
+            "depositType": "credit",
+            "token": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:db7b54841c37cb29778d0a010641d32d27fcfcd93b458cbd5522d5be68783da9",
+            "depositType": "credit",
+            "token": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+          }
+        ]
+      }
+    },
+    "0:7b68fec3f852fad947c24323b54f9e38833b223f9cee5d105adbca2196b06de2": {
+      "evm_everscale": {
+        "proxy": "0:05c2b46caf2354820891eba1faffcf22d3b32f54b0268bb20084f239898dff79",
+        "vaults": [
+          {
+            "chainId": "1",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:8de1408ce3c9478eb89d9c7bd8b3d96e2fe89fd9b80718dd6e2494871f74c01a",
+            "depositType": "default",
+            "token": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+          },
+          {
+            "chainId": "56",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:125d3ee4701cab5929b1bfec84eac30696eaecd3a747309cb53176bd54cbcac6",
+            "depositType": "default",
+            "token": "0xad29abb318791d579433d831ed122afeaf29dcfe"
+          },
+          {
+            "chainId": "250",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:a90ca1327909338d3375a0a952c5bc931db9648386464757168d2353bef9d9ed",
+            "depositType": "default",
+            "token": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+          },
+          {
+            "chainId": "1",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:84f7e352294fec3d14d46471b534bfc75a2117072b1d17c3d8f4f6cf8f61ecb9",
+            "depositType": "credit",
+            "token": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+          },
+          {
+            "chainId": "56",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:e7f5b94a4ab0375d70b5717aefc424291493a149f62e4be327cfa8c68fc3bea6",
+            "depositType": "credit",
+            "token": "0xad29abb318791d579433d831ed122afeaf29dcfe"
+          },
+          {
+            "chainId": "250",
+            "vault": "0x3f672a9971bf5a6fc6ff22544fa46ee95b88021f",
+            "ethereumConfiguration": "0:4b364f1c76663a30063efb4449dce985de5d5b0910dde5792afd1d78351d9471",
+            "depositType": "credit",
+            "token": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+          }
+        ]
+      }
+    },
+    "0:df2300ded75e47e7d5ba449408a8e5f37f58432e27bd4c4fa01c28ffddc8b715": {
+      "evm_everscale": {
+        "proxy": "0:321791537dfc3795e09d2ab148549d616142c5f9068fbbd1770274a945b03ec5",
+        "vaults": [
+          {
+            "chainId": "1",
+            "vault": "0x20f596070f256fd13423093deb8d3b97c925123f",
+            "ethereumConfiguration": "0:28b2aa5b866f2783701fbf24fd6c49fbc577eddeea722cb25f593e461effc574",
+            "depositType": "default",
+            "token": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x7d5c174f0c87ef1ee118cc0fa096b311d1c5a686",
+            "ethereumConfiguration": "0:20e8a5cd1f1d0c42b1e3669fd51a6b8646f9a70f883e5a9b732704e8142089ce",
+            "depositType": "default",
+            "token": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
+          },
+          {
+            "chainId": "1",
+            "vault": "0x20f596070f256fd13423093deb8d3b97c925123f",
+            "ethereumConfiguration": "0:16056122e5291d30c8c3d9b006c160d96fc7551058b596cd94d53acb9c514431",
+            "depositType": "credit",
+            "token": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x7d5c174f0c87ef1ee118cc0fa096b311d1c5a686",
+            "ethereumConfiguration": "0:a6814ef0a26777fa6d2821295b53f4ac252237b20769a86f2135c7f518630799",
+            "depositType": "credit",
+            "token": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
+          }
+        ]
+      }
+    },
+    "0:7589f616de714da2a708dbd313ba5bda9b3fceb0139c48c19a88d4b6efb51629": {
+      "evm_everscale": {
+        "proxy": "0:a55a0cbb9cf557ebf1244642ca4e30cc9aeeb43c5d0eab34da1465d3a94da327",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0x20f596070f256fd13423093deb8d3b97c925123f",
+            "ethereumConfiguration": "0:f5d9766cddf712a635d29533ee6ba03b86dba18ee99bb39eb103f78fac369cf6",
+            "depositType": "default",
+            "token": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x20f596070f256fd13423093deb8d3b97c925123f",
+            "ethereumConfiguration": "0:fef13c333d60b7454cf1117835310a66676d48cc163d2b58292478b8be990b43",
+            "depositType": "credit",
+            "token": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          }
+        ]
+      }
+    },
+    "0:7f4412548fcb8fd4a12a29ee8f3aaad4e5fe3aedf8f4903d74252fdd5f1c6f3f": {
+      "evm_everscale": {
+        "proxy": "0:a312a0518da25a34e5faf4b03bc35b54777e62b6cb3fcf5a7f3e00f2fb7ba6c5",
+        "vaults": [
+          {
+            "chainId": "56",
+            "vault": "0x3a34250334f6142176f23daa819dbc569724208a",
+            "ethereumConfiguration": "0:a346eece9e815d84387d33a3865083cce73e9168d8bb0b56834bd4282f462f16",
+            "depositType": "default",
+            "token": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+          },
+          {
+            "chainId": "250",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:691809e3d7445bc1f0ff398470811d779794a730fa7fec9cabc5ff7270792f27",
+            "depositType": "default",
+            "token": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+          },
+          {
+            "chainId": "56",
+            "vault": "0x3a34250334f6142176f23daa819dbc569724208a",
+            "ethereumConfiguration": "0:63289eae6e4543b076059726aa904bf6e438b5937f9c8e0cd462f9cb2511baa8",
+            "depositType": "credit",
+            "token": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+          },
+          {
+            "chainId": "250",
+            "vault": "0xb62e71cfb469bbdeec45851bda4f9cfb376cade7",
+            "ethereumConfiguration": "0:d4ee54606f2b600bb01b4a45e70bbb197b144f6f2aa30d5327bf8720bb7bec2f",
+            "depositType": "credit",
+            "token": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+          }
+        ]
+      }
     }
   }
 }
